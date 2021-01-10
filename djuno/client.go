@@ -53,7 +53,7 @@ func HealthCheck() {
 		_, err := http.Get(arg.HealthCheckEndpoint)
 
 		if err == nil {
-			log.Printf("INFO: Swarmpit OK")
+			log.Printf("INFO: Djuno OK")
 			break
 		}
 	}
