@@ -4,6 +4,7 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/Djuno-Ltd/agent/djuno"
 	"github.com/Djuno-Ltd/agent/djuno/task"
 	"github.com/docker/docker/client"
 )
