@@ -8,6 +8,7 @@ Djuno pass monitoring docker agent
 [![Build Status](https://travis-ci.com/Djuno-Ltd/agent.svg?token=qqHq1v8srFQ4DXwKgnW2&branch=master)](https://travis-ci.com/Djuno-Ltd/agent)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Djuno-Ltd/agent/pulls)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Docker Pulls](https://img.shields.io/docker/pulls/djunoltd/agent.svg?style=flat-square)](https://hub.docker.com/repository/docker/djunoltd/agent/general)
 ## Run
 
 ```{r, engine='bash', count_lines}
